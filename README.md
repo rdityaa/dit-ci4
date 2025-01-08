@@ -1,3 +1,12 @@
+## Raditya Rizki Raharja_714240041
+
+# Tampilan Dashboard
+![Screenshot (185)](https://github.com/user-attachments/assets/8bf77243-90c7-4933-aa33-3b8e35825674)
+
+# Database
+![image](https://github.com/user-attachments/assets/e09fd407-e4c1-4f19-8ffc-84607ddf8746)
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
