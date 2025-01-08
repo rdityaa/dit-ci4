@@ -2,18 +2,18 @@
 
 namespace App\Controllers;
 
-use App\Models\Model_matkul;
+use App\Models\Model_toko;
 
 class dashboard extends BaseController
 {
     public function __construct()
         {
-            $this->model_matkul = new Model_matkul();
+            $this->model_toko = new Model_toko();
         }
     
     public function index(): string
     {
-        $data['matkul'] = $this->model_matkul->tampilan_data();
+        $data['toko'] = $this->model_toko->tampilan_data();
         echo view('templates/header');
         echo view('templates/sidebar');
         echo view('templates/footer');
